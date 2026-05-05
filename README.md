@@ -22,7 +22,7 @@ The model is trained on a custom dataset to detect different types of vehicles i
 ---
 
 ## Dataset
-- Custom annotated dataset.
+- Custom annotated dataset
 - Includes:
   - Multiple vehicles in one frame
   - Different lighting conditions (day/night)
