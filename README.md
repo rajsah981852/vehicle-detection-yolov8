@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements a multi-class vehicle detection system using YOLOv8.  
-The model is trained on a custom dataset to detect different types of vehicles in real-world scenarios
+The model is trained on a custom dataset to detect different types of vehicles in real-world scenarios.
 
 ### Detected Classes
 - Car
